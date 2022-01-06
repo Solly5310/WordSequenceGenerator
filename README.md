@@ -4,7 +4,7 @@ Large Programming Assignment as part of the University Subject Data Structures a
 
 **Received 11/12 in Marking**
 
-## Assignemnt Objective
+## Assignment Objective
 
 - Implement a data structure that displays all possible word sequences (words that have one letter difference, or one letter more/less)
 - Find the longest word sequences and display them
