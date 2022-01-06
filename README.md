@@ -28,4 +28,4 @@ This assignment essentially requires a program to complete three functions:
 * Finally we free the dynamic memory usage of the Graph data type through the freeGraph function
 
 ## Notes:
-* A Makefile was utilised so that instant compilation each file and there respective of dependencies occur
+* A Makefile was utilised so that instant compilation of each file and there respective of dependencies occur
